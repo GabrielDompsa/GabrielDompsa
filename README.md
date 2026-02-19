@@ -40,6 +40,13 @@
 
 ###
 
+<h6 align="left">🛠️ Soft Skills: Organização, proatividade, trabalho em equipe e facilidade de adaptação.<br><br>🎖️ Background: Cabo do Exército (DOMPSA)<br><br>🎓 Formação: Engenharia de Software na Estácio.</h6>
+
+
+
+###
+
+###
 <br clear="both">
 
 <picture>
