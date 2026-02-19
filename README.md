@@ -8,7 +8,7 @@
 
 ###
 
-<h6 align="left">Sou um estudante do último período de Engenharia de Software com uma trajetória marcada pela disciplina e liderança desenvolvidas ao longo de 8 anos no Exército Brasileiro. Atualmente, foco minha transição de carreira para o desenvolvimento de software, unindo a resiliência militar com a paixão por resolver problemas através do código.</h6>
+<h3 align="left">Sou um estudante do último período de Engenharia de Software com uma trajetória marcada pela disciplina e liderança desenvolvidas ao longo de 8 anos no Exército Brasileiro. Atualmente, foco minha transição de carreira para o desenvolvimento de software, unindo a resiliência militar com a paixão por resolver problemas através do código.</h3>
 
 ###
 
